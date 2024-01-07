@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QuB+U+9M/GFAzCZiN5KX0RO34hfZsED+snhvqDyl84RSyVOoll0xeIyH44jXYtGMjoYvu23A+r53xt1fWKeo/A==",
+  "dgSpecHash": "D+MyeZSSBtEw0v73lXcZaTWCbD5jj9lZw3TczJIc0VW99dzCrz4C92Ej8nDa4qIG73LSEBDlqnUq02W2Ws9DjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\daniel.oropeza\\Documents\\Other files\\MicroserviceStore\\StoreServices\\StoreServices.Api.Author\\StoreServices.Api.Author.csproj",
+  "projectFilePath": "C:\\Users\\daniel.oropeza\\Documents\\Other files\\microservices-book-store\\StoreServices\\StoreServices.Api.Author\\StoreServices.Api.Author.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\daniel.oropeza\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\daniel.oropeza\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -37,6 +37,7 @@
     "C:\\Users\\daniel.oropeza\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\daniel.oropeza\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\daniel.oropeza\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\daniel.oropeza\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\daniel.oropeza\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\daniel.oropeza\\.nuget\\packages\\npgsql\\8.0.0\\npgsql.8.0.0.nupkg.sha512",
     "C:\\Users\\daniel.oropeza\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.0\\npgsql.entityframeworkcore.postgresql.8.0.0.nupkg.sha512",

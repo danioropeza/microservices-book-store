@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7FR3Z6eEcRcUChAYiYJEZ2vvVGGwEGM49WAi4vcMUyT/+mlU+Stqvq/cB3F+OIwYG9cdIMRwfZJdyhfAqY/7Mg==",
+  "dgSpecHash": "YGF2xH9pATiDHiSocOflXU+b+ds/7vgJ0P2kR3/2r4Y+WUmeVkgg57uKy4EDn/pNI04q7rLhAgkwga7ZgMIOFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\daniel.oropeza\\Documents\\Other files\\MicroserviceStore\\StoreServices\\StoreServices.Api.ShoppingCart\\StoreServices.Api.ShoppingCart.csproj",
+  "projectFilePath": "C:\\Users\\daniel.oropeza\\Documents\\Other files\\microservices-book-store\\StoreServices\\StoreServices.Api.ShoppingCart\\StoreServices.Api.ShoppingCart.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\daniel.oropeza\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\daniel.oropeza\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -37,6 +37,7 @@
     "C:\\Users\\daniel.oropeza\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\daniel.oropeza\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\daniel.oropeza\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\daniel.oropeza\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\daniel.oropeza\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\daniel.oropeza\\.nuget\\packages\\mysqlconnector\\2.3.1\\mysqlconnector.2.3.1.nupkg.sha512",
     "C:\\Users\\daniel.oropeza\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\8.0.0-beta.2\\pomelo.entityframeworkcore.mysql.8.0.0-beta.2.nupkg.sha512",

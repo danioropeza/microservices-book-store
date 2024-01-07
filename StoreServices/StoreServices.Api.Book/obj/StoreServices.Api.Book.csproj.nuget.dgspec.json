@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daniel.oropeza\\Documents\\Other files\\MicroserviceStore\\StoreServices\\StoreServices.Api.Book\\StoreServices.Api.Book.csproj": {}
+    "C:\\Users\\daniel.oropeza\\Documents\\Other files\\microservices-book-store\\StoreServices\\StoreServices.Api.Book\\StoreServices.Api.Book.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daniel.oropeza\\Documents\\Other files\\MicroserviceStore\\StoreServices\\StoreServices.Api.Book\\StoreServices.Api.Book.csproj": {
+    "C:\\Users\\daniel.oropeza\\Documents\\Other files\\microservices-book-store\\StoreServices\\StoreServices.Api.Book\\StoreServices.Api.Book.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daniel.oropeza\\Documents\\Other files\\MicroserviceStore\\StoreServices\\StoreServices.Api.Book\\StoreServices.Api.Book.csproj",
+        "projectUniqueName": "C:\\Users\\daniel.oropeza\\Documents\\Other files\\microservices-book-store\\StoreServices\\StoreServices.Api.Book\\StoreServices.Api.Book.csproj",
         "projectName": "StoreServices.Api.Book",
-        "projectPath": "C:\\Users\\daniel.oropeza\\Documents\\Other files\\MicroserviceStore\\StoreServices\\StoreServices.Api.Book\\StoreServices.Api.Book.csproj",
+        "projectPath": "C:\\Users\\daniel.oropeza\\Documents\\Other files\\microservices-book-store\\StoreServices\\StoreServices.Api.Book\\StoreServices.Api.Book.csproj",
         "packagesPath": "C:\\Users\\daniel.oropeza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daniel.oropeza\\Documents\\Other files\\MicroserviceStore\\StoreServices\\StoreServices.Api.Book\\obj\\",
+        "outputPath": "C:\\Users\\daniel.oropeza\\Documents\\Other files\\microservices-book-store\\StoreServices\\StoreServices.Api.Book\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -76,6 +76,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.5, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
