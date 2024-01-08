@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoreServices.Api.ShoppingC
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{F65DF579-2521-4768-B52C-BB2971E95217}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreServices.Api.Gateway", "StoreServices.Api.Gateway\StoreServices.Api.Gateway.csproj", "{88C4E404-24F7-492E-9502-E165F839C661}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F65DF579-2521-4768-B52C-BB2971E95217}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F65DF579-2521-4768-B52C-BB2971E95217}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F65DF579-2521-4768-B52C-BB2971E95217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88C4E404-24F7-492E-9502-E165F839C661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C4E404-24F7-492E-9502-E165F839C661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C4E404-24F7-492E-9502-E165F839C661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C4E404-24F7-492E-9502-E165F839C661}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

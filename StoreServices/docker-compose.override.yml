@@ -8,6 +8,7 @@ services:
     ports:
       - "6104:8080"
 
+
   storeservices.api.book:
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
@@ -23,6 +24,17 @@ services:
       - Services__Authors=http://storeservices.api.author:8080
       - Services__Books=http://storeservices.api.book:8080
     ports:
-    ports:
       - "6106:8080"
+
+
+  storeservices.api.gateway:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTP_PORTS=8080
+    depends_on:
+        - storeservices.api.book
+        - storeservices.api.author
+        - storeservices.api.shoppingcart
+    ports:
+      - "6107:8080"
 
